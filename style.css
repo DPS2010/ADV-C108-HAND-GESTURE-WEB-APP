@@ -1,0 +1,41 @@
+body{
+  background: rgb(249,255,0);
+background: linear-gradient(90deg, rgba(249,255,0,1) 0%, rgba(0,241,255,1) 100%);
+
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #snapshot
+{
+  padding:0px;
+  border: 10px double whitesmoke;
+  width: 350px;
+  height: 350px; 
+}
+.handGesture_Name
+{
+  font-size: 40px;
+  color: black;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading {
+  font-size: 35px;
+  background-color:blue;
+  letter-spacing: 5px;
+  color: white;
+}
+.buttons {
+  background-color: blue;
+  font-size: 20px;
+  color: white;
+
+}
+label {
+  font-size: 22px;
+  color:cornflowerblue;
+}
